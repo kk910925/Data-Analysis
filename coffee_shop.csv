@@ -1,0 +1,31 @@
+OrderID,Date,Product,Category,Price,Quantity,Member,Payment
+1001,2026-07-01,Latte,Coffee,120,2,Yes,Credit Card
+1002,2026-07-01,Americano,Coffee,90,1,No,Cash
+1003,2026-07-01,Cappuccino,Coffee,130,1,Yes,Mobile Pay
+1004,2026-07-01,Cheesecake,Dessert,150,2,No,Credit Card
+1005,2026-07-01,Cookie,Dessert,60,3,Yes,Cash
+1006,2026-07-02,Mocha,Coffee,140,1,No,Mobile Pay
+1007,2026-07-02,Latte,Coffee,120,1,Yes,Credit Card
+1008,2026-07-02,Brownie,Dessert,80,2,Yes,Cash
+1009,2026-07-02,Americano,Coffee,90,2,No,Credit Card
+1010,2026-07-03,Tea,Drink,70,3,Yes,Mobile Pay
+1011,2026-07-03,Latte,Coffee,120,2,Yes,Credit Card
+1012,2026-07-03,Cookie,Dessert,60,4,No,Cash
+1013,2026-07-03,Mocha,Coffee,140,1,Yes,Credit Card
+1014,2026-07-04,Tea,Drink,70,2,No,Cash
+1015,2026-07-04,Cappuccino,Coffee,130,2,Yes,Mobile Pay
+1016,2026-07-04,Cheesecake,Dessert,150,1,No,Credit Card
+1017,2026-07-04,Americano,Coffee,90,3,Yes,Cash
+1018,2026-07-05,Latte,Coffee,120,1,No,Mobile Pay
+1019,2026-07-05,Brownie,Dessert,80,2,Yes,Credit Card
+1020,2026-07-05,Tea,Drink,70,4,Yes,Cash
+1021,2026-07-06,Mocha,Coffee,140,2,No,Credit Card
+1022,2026-07-06,Cookie,Dessert,60,2,Yes,Cash
+1023,2026-07-06,Americano,Coffee,90,2,Yes,Credit Card
+1024,2026-07-06,Latte,Coffee,120,3,No,Mobile Pay
+1025,2026-07-07,Cheesecake,Dessert,150,2,Yes,Credit Card
+1026,2026-07-07,Tea,Drink,70,1,No,Cash
+1027,2026-07-07,Cappuccino,Coffee,130,2,Yes,Mobile Pay
+1028,2026-07-07,Brownie,Dessert,80,3,No,Credit Card
+1029,2026-07-07,Americano,Coffee,90,2,Yes,Cash
+1030,2026-07-07,Latte,Coffee,120,2,Yes,Credit Card
